@@ -3,15 +3,19 @@ console.log("main.js loaded");
 
 
 <!-- JavaScript Logic -->
-  const menuToggle = document.getElementById('menuToggle');
-  const sideMenu = document.getElementById('sideMenu');
+ 
+// მთავარი სკრიპტები
+console.log("main.js loaded");
 
-  menuToggle.addEventListener('click', () => {
-    sideMenu.classList.toggle('open');
-  });
+const menuToggle = document.getElementById('menuToggle');
+const sideMenu = document.getElementById('sideMenu');
 
-  document.addEventListener('click', (e) => {
-    if (!sideMenu.contains(e.target) && !menuToggle.contains(e.target)) {
-      sideMenu.classList.remove('open');
-    }
-  });
+menuToggle.addEventListener('click', () => {
+  sideMenu.classList.toggle('open');
+});
+
+document.addEventListener('click', (e) => {
+  if (!sideMenu.contains(e.target) && !menuToggle.contains(e.target)) {
+    sideMenu.classList.remove('open');
+  }
+});
