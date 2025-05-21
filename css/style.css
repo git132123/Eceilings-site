@@ -1,2 +1,62 @@
 /* მთავარი სტილები */
 body { font-family: sans-serif; }
+<!-- CSS for Header (insert this in style.css) -->
+.site-header {
+  position: relative;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  z-index: 1000;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+.logo a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+.menu-toggle {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.menu-toggle .bar {
+  width: 25px;
+  height: 3px;
+  background: #333;
+}
+.side-menu {
+  position: fixed;
+  top: 0;
+  right: -260px;
+  width: 250px;
+  height: 100%;
+  background: #fff;
+  box-shadow: -2px 0 5px rgba(0,0,0,0.2);
+  transition: right 0.3s ease;
+  padding: 2rem 1rem;
+  z-index: 999;
+}
+.side-menu.open {
+  right: 0;
+}
+.side-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.side-menu li {
+  margin-bottom: 1.2rem;
+}
+.side-menu a {
+  color: #333;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
