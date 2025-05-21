@@ -1,0 +1,79 @@
+[
+  {
+    "name": "MSD Premium",
+    "type": "მატერია",
+    "rating": "4.5/5",
+    "description": "გერმანული ხარისხის PVC მატერია, გამძლე და ესთეტიკური.",
+    "image": "images/technologies/pvc-stretch-ceiling-msd-premium.webp"
+  },
+  {
+    "name": "HAILED Premium",
+    "type": "მატერია",
+    "rating": "4/5",
+    "description": "HAILED-ის მაღალი ხარისხის მატერია მინიმალისტური დიზაინისთვის.",
+    "image": "images/technologies/pvc-stretch-ceiling-hailed-premium.webp"
+  },
+  {
+    "name": "BAUF",
+    "type": "მატერია",
+    "rating": "5/5",
+    "description": "BAUF სერიების პრიალა ჭერის მატერია გამორჩეული ელვარებით.",
+    "image": "images/technologies/pvc-stretch-ceiling-bauf.webp"
+  },
+  {
+    "name": "პლასტმასის პროფილი კანტით",
+    "type": "პროფილი",
+    "rating": "4/5",
+    "description": "ეკონომიური და მარტივად დამონტაჟებადი პროფილი კანტით.",
+    "image": "images/technologies/plastic-edge-profile-with-lip.webp"
+  },
+  {
+    "name": "პლასტმასის ჩრდილოვანი პროფილი",
+    "type": "პროფილი",
+    "rating": "4.5/5",
+    "description": "ჩრდილოვანი ეფექტისთვის იდეალური პროფილი პლასტმასში.",
+    "image": "images/technologies/plastic-shadow-profile-type.webp"
+  },
+  {
+    "name": "ალუმინის ჩრდილოვანი პროფილი",
+    "type": "პროფილი",
+    "rating": "5/5",
+    "description": "მაღალი ხარისხის ალუმინის პროფილი თანამედროვე პროექტებისთვის.",
+    "image": "images/technologies/aluminum-shadow-profile-type.webp"
+  },
+  {
+    "name": "Klimas დუბელი",
+    "type": "დუბელი",
+    "rating": "5/5",
+    "description": "SX ტიპის უნივერსალური დუბელი Klimas-ის ბრენდისგან.",
+    "image": "images/technologies/klimas-universal-dowel-sx.webp"
+  },
+  {
+    "name": "ხაზოვანი განათება",
+    "type": "განათება",
+    "rating": "5/5",
+    "description": "მჭიდროდ ჩასმული ზოლიანი განათება ერთგვაროვანი ნათებით.",
+    "image": "images/technologies/linear-led-lighting-surface.webp"
+  },
+  {
+    "name": "კედლის პროფილის განათება",
+    "type": "განათება",
+    "rating": "5/5",
+    "description": "პროფილის შიდა განათება ინტერიერის რბილი კონტრასტისთვის.",
+    "image": "images/technologies/wall-profile-indirect-lighting.webp"
+  },
+  {
+    "name": "მაგნიტური რელსი",
+    "type": "განათება",
+    "rating": "4/5",
+    "description": "მრავალფუნქციური მაგნიტური განათების სისტემა თანამედროვე სივრცეებისთვის.",
+    "image": "images/technologies/magnetic-track-lighting-system.webp"
+  },
+  {
+    "name": "რელსური განათება",
+    "type": "განათება",
+    "rating": "5/5",
+    "description": "მოძრავი სპოტებით აღჭურვილი რელსური ჭერის განათება.",
+    "image": "images/technologies/track-lighting-adjustable-spot.webp"
+  }
+]
